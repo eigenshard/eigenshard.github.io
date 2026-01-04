@@ -1,7 +1,4 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: Keybase OpenPGP v1.0.0
-Comment: https://keybase.io/crypto
-
 xsFNBGlXC7wBEADNA3zs4lvTFfS9TJH/Px9X/T+EogHiPVX67OoAATquT04G1zyq
 u05pzAJI71JjMFSZIyIu9Ra1+SLZpEeUscxghb7aX2n9TunNDigDojfSGmF8VoQO
 TBzdgWuB5X0mSGCIEYH7oEFi7Q3nwKWVRk5mFPKJFUeiduIWQFaiCIK6dhLpwxmu
